@@ -8,6 +8,7 @@ Para fazer análises mais detalhadas do QA
 Link: https://bit.ly/3jOMrR9
  
 Cenário: Preencher pesquisa com dados obrigatórios válidos
+
 Dado que eu acesse a página da VV Test
 E acesse o menu "Pesquisa - QA"
 Quando eu preencher todos os campos obrigatórios 
