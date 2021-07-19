@@ -1,4 +1,4 @@
-Teste de #Automação - Via
+#Teste de Automação - Via
 
 Funcionalidade: Pesquisa com o QA Como um recrutador Quero colher dados da pesquisa Para fazer análises mais detalhadas do QA
 
