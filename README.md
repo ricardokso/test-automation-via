@@ -6,7 +6,7 @@ Link: https://bit.ly/3jOMrR9
 
 Cenário: Preencher pesquisa com dados obrigatórios válidos
 
-Dado que eu acesse a página da VV Test E acesse o menu "Pesquisa - QA" Quando eu preencher todos os campos obrigatórios Então deve ser direcionado para uma página de sucessoa
+Dado que eu acesse a página da VV Test E acesse o menu "Pesquisa - QA"  Quando eu preencher todos os campos obrigatórios  Então deve ser direcionado para uma página de sucessoa
 
 # Instalação
 
@@ -16,5 +16,5 @@ source venv/bin/activate #Linux
 
 pip install behave selenium
 
-*.feature - Arquivo de gherking contendo as regras de execução
+*.feature - Arquivo de gherking contendo as regras de execução  
 steṕs.py - Arquivo de implementação das regras de execução
