@@ -6,7 +6,7 @@ Link: https://bit.ly/3jOMrR9
 
 Cenário: Preencher pesquisa com dados obrigatórios válidos
 
-Dado que eu acesse a página da VV Test E acesse o menu "Pesquisa - QA"\ Quando eu preencher todos os campos obrigatórios\ Então deve ser direcionado para uma página de sucesso
+Dado que eu acesse a página da VV Test E acesse o menu "Pesquisa - QA"<br>Quando eu preencher todos os campos obrigatórios\ Então deve ser direcionado para uma página de sucesso
 
 # Instalação
 
